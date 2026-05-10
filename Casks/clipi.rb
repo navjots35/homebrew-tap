@@ -1,6 +1,6 @@
 cask "clipi" do
-  version "0.1.1"
-  sha256 "c2f184c053651babf89de65d398fd914a58141a7be2aa9addccb9b7dad77c730"
+  version "0.1.2"
+  sha256 "e1f9448e7b85be1f1b534031ec52b51ac110385d32e6e845e3c0aea1bd2972fb"
 
   url "https://github.com/navjots35/clipi/releases/download/v#{version}/clipi-#{version}.dmg"
   name "clipi"
